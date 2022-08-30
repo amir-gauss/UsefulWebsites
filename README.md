@@ -1,7 +1,9 @@
 # Security
 ## Security ranking
 'Top 100 vendor security ranking and live vulnerability' https://stack.watch/product/ 
+
 ---
+
 # DevOps
 ## Tools
 ### Wiki
@@ -18,11 +20,15 @@
 ## Deploy and Delivery
 'best slides define deployment strategies' https://www.mobilise.cloud/kubernetes-deployment-strategies/
 '5 deployment strategies' https://www.opsmx.com/blog/advanced-deployment-strategies-devops-methodology/
+
 ---
+
 # Agile
 ## Manifesto
 'Define grate maturity model base on alige in big organization' https://blog.scrum.ir/2019/12/agility-of-big-organizations/
+
 ---
+
 # Programming
 'illinois University open projects' https://opensource.ncsa.illinois.edu/bitbucket/projects
 ## Java
@@ -31,11 +37,15 @@
 ## COBOL
 ### Training 
 'Open source group mainframe (open MainFrame) in VSCode' https://www.openmainframeproject.org/projects/coboltrainingcourse
+
 ---
+
 # ML
 ## Python
 'dicenteralize learning' https://github.com/google/fedjax
+
 ---
+
 # Online Services
 ## Book
 'Share our favorite book lists and remarked them' https://www.goodreads.com/review/list/14557718-mehrdad?ref=nav_mybooks
