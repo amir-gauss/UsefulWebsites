@@ -51,3 +51,9 @@
 'Share our favorite book lists and remarked them' https://www.goodreads.com/review/list/14557718-mehrdad?ref=nav_mybooks
 ## VISA
 'Check UAE visa Validation' https://smartservices.icp.gov.ae/echannels/web/client/default.html#/fileValidity
+
+---
+
+# Mobile
+## Hardware 
+'Ranking soc' https://nanoreview.net/en/soc-list/rating
