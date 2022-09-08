@@ -7,7 +7,9 @@
 'OpenSource AssetManagement' https://github.com/glpi-project/glpi
 ## IssueTracker
 '(Discontinue) OpenSource Issue Tracker' https://github.com/OTRS/otrs
+
 'Fork from OTRS but now free and very usefull' https://github.com/RotherOSS/otobo , https://otobo.de/en/otobo-features/
+
 'New Opensource Issue Tracker' https://github.com/znuny/Znuny
 ## CMDB
 'Opensource CMDB' https://www.i-doit.org/
