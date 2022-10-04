@@ -57,3 +57,19 @@
 # Mobile
 ## Hardware 
 'Ranking soc' https://nanoreview.net/en/soc-list/rating
+
+
+---
+
+# Note
+## Visualize
+xmind is full featured mind mapping and brainstorming app 'https://snapcraft.io/xmind' 'https://xmind.app/download/' 
+
+---
+
+# BigData
+## Learning
+'https://git.ir/big-data/'
+'https://7learn.com/course/big-data-engineer-expert' 
+'https://maktabkhooneh.org/course/%D9%87%D9%85%D8%A7%DB%8C%D8%B4-%D8%AF%D9%88%D8%B1%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-big-data-mk624/' 
+'https://amanjacademy.com/android/online/'
