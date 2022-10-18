@@ -65,6 +65,15 @@
 ## Visualize
 xmind is full featured mind mapping and brainstorming app 'https://snapcraft.io/xmind' 'https://xmind.app/download/' 
 
+## On-screen annotation software
+'Open source with C# like Epic pen in windows' https://github.com/geovens/gInk
+
+## Whiteboard
+'Online Whiteboard on web' https://www.tldraw.com/
+'Open Source WhiteBoard Like Microsoft Whiteboard' https://github.com/OpenBoard-org/OpenBoard
+'Open source and NEW technology' https://github.com/mbrlabs/Lorien
+
+
 ---
 
 # BigData
