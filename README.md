@@ -41,6 +41,9 @@
 ---
 
 # ML
+## Persian Tutorial ML
+'MIT Tutorial' https://mehrdad-dev.ir/ml-andrew-ng/
+
 ## Python
 'dicenteralize learning' https://github.com/google/fedjax
 
