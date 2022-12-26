@@ -40,6 +40,10 @@
 ### Training 
 'Open source group mainframe (open MainFrame) in VSCode' https://www.openmainframeproject.org/projects/coboltrainingcourse
 
+## Python
+### Training
+'Open book persian' https://python.coderz.ir/index.html
+
 ---
 
 # ML
@@ -49,6 +53,8 @@
 ## Python
 'dicenteralize learning' https://github.com/google/fedjax
 
+## Dataset
+'free Dataset' https://www.kaggle.com/datasets
 ---
 
 # Online Services
